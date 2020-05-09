@@ -1,0 +1,12 @@
+{
+  "name": "js-data-scraper",
+  "version": "1.0.0",
+  "description": "Data Scraper",
+  "main": "index.js",
+  "repository": "https://github.com/sharechiwai/js-data-scraper.git",
+  "author": "sharechiwai",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
